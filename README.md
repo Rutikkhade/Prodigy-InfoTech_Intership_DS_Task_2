@@ -9,6 +9,7 @@
 3. Handling Outliers
 -> Detect Outliers
 -> Remove outliers
+   
 At first, I imported the essential libraries, and after analyzing the data I divided it into specific columns such as categorical columns, numerical columns, and mixed columns.
 I have also found that there are some missing values in the data and have drawn some valuable conclusions from it. After inputting missing values, I changed the data type of some columns which were mismatched with the original ones.
 Next, I implemented univariate analysis on the particular columns and got to know deeper about the data. For gaining deeper insights, I used the Seaborn library and plotted various plots such as countplot, distplot, and boxplot. It helped me to gain meaningful insights about my data.
